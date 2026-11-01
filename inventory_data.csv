@@ -1,0 +1,4 @@
+Product_ID,Product_Name,Current_Stock,Lead_Time_Days,Safety_Stock
+P101,Laptop,20,5,10
+P102,Mouse,15,3,8
+P103,Keyboard,50,4,10
